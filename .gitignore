@@ -1,0 +1,15 @@
+# Python virtual environments
+venv/
+ENV/
+env/
+.venv/
+dataset/
+# Environment variables file
+.env
+
+# Compiled files
+__pycache__/
+*.pyc
+
+# VS Code settings (optional)
+.vscode/
