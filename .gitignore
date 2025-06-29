@@ -6,7 +6,8 @@ env/
 dataset/
 # Environment variables file
 .env
-
+.json
+.jsonl
 # Compiled files
 __pycache__/
 *.pyc
